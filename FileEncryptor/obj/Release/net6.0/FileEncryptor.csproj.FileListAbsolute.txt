@@ -1,0 +1,30 @@
+C:\Users\mrlon\source\repos\FileEncryptor\FileEncryptor\bin\Release\net6.0\FileEncryptor.exe
+C:\Users\mrlon\source\repos\FileEncryptor\FileEncryptor\bin\Release\net6.0\FileEncryptor.deps.json
+C:\Users\mrlon\source\repos\FileEncryptor\FileEncryptor\bin\Release\net6.0\FileEncryptor.runtimeconfig.json
+C:\Users\mrlon\source\repos\FileEncryptor\FileEncryptor\bin\Release\net6.0\FileEncryptor.dll
+C:\Users\mrlon\source\repos\FileEncryptor\FileEncryptor\bin\Release\net6.0\FileEncryptor.pdb
+C:\Users\mrlon\source\repos\FileEncryptor\FileEncryptor\obj\Release\net6.0\FileEncryptor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrlon\source\repos\FileEncryptor\FileEncryptor\obj\Release\net6.0\FileEncryptor.AssemblyInfoInputs.cache
+C:\Users\mrlon\source\repos\FileEncryptor\FileEncryptor\obj\Release\net6.0\FileEncryptor.AssemblyInfo.cs
+C:\Users\mrlon\source\repos\FileEncryptor\FileEncryptor\obj\Release\net6.0\FileEncryptor.csproj.CoreCompileInputs.cache
+C:\Users\mrlon\source\repos\FileEncryptor\FileEncryptor\obj\Release\net6.0\FileEncryptor.dll
+C:\Users\mrlon\source\repos\FileEncryptor\FileEncryptor\obj\Release\net6.0\refint\FileEncryptor.dll
+C:\Users\mrlon\source\repos\FileEncryptor\FileEncryptor\obj\Release\net6.0\FileEncryptor.pdb
+C:\Users\mrlon\source\repos\FileEncryptor\FileEncryptor\obj\Release\net6.0\FileEncryptor.genruntimeconfig.cache
+C:\Users\mrlon\source\repos\FileEncryptor\FileEncryptor\obj\Release\net6.0\ref\FileEncryptor.dll
+C:\Users\mrlon\source\repos\FileEncryptor - Copia\FileEncryptor\bin\Release\net6.0\FileEncryptor.exe
+C:\Users\mrlon\source\repos\FileEncryptor - Copia\FileEncryptor\bin\Release\net6.0\FileEncryptor.deps.json
+C:\Users\mrlon\source\repos\FileEncryptor - Copia\FileEncryptor\bin\Release\net6.0\FileEncryptor.runtimeconfig.json
+C:\Users\mrlon\source\repos\FileEncryptor - Copia\FileEncryptor\bin\Release\net6.0\FileEncryptor.dll
+C:\Users\mrlon\source\repos\FileEncryptor - Copia\FileEncryptor\obj\Release\net6.0\FileEncryptor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrlon\source\repos\FileEncryptor - Copia\FileEncryptor\obj\Release\net6.0\FileEncryptor.AssemblyInfoInputs.cache
+C:\Users\mrlon\source\repos\FileEncryptor - Copia\FileEncryptor\obj\Release\net6.0\FileEncryptor.AssemblyInfo.cs
+C:\Users\mrlon\source\repos\FileEncryptor - Copia\FileEncryptor\obj\Release\net6.0\FileEncryptor.csproj.CoreCompileInputs.cache
+C:\Users\mrlon\source\repos\FileEncryptor - Copia\FileEncryptor\obj\Release\net6.0\FileEncryptor.dll
+C:\Users\mrlon\source\repos\FileEncryptor - Copia\FileEncryptor\obj\Release\net6.0\refint\FileEncryptor.dll
+C:\Users\mrlon\source\repos\FileEncryptor - Copia\FileEncryptor\obj\Release\net6.0\FileEncryptor.genruntimeconfig.cache
+C:\Users\mrlon\source\repos\FileEncryptor - Copia\FileEncryptor\obj\Release\net6.0\ref\FileEncryptor.dll
+C:\Users\mrlon\source\repos\FileEncryptor - Copia\FileEncryptor\obj\Release\net6.0\FileEncryptor.Properties.Resources.resources
+C:\Users\mrlon\source\repos\FileEncryptor - Copia\FileEncryptor\obj\Release\net6.0\FileEncryptor.csproj.GenerateResource.cache
+C:\Users\mrlon\source\repos\FileEncryptor - Copia\FileEncryptor\bin\Release\net6.0\FileEncryptor.pdb
+C:\Users\mrlon\source\repos\FileEncryptor - Copia\FileEncryptor\obj\Release\net6.0\FileEncryptor.pdb
